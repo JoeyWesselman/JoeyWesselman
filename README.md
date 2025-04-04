@@ -18,4 +18,6 @@ Currently a second-year Mechanical Engineering Student at Saddleback College.
 ---
 [![](https://visitcount.itsvg.in/api?id=JoeyWesselman&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/JoeyWesselman/JoeyWesselman/blob/output/github-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
