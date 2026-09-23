@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a second-year Mechanical Engineering Student at Saddleback College.
+Currently a Third-year Mechanical Engineering Student at University of California Irvine.
 
 
 ## 🌐 Socials:
